@@ -1,5 +1,7 @@
 # Energy-Management-System-for-EV
 
+To use the program, YALMIP library needs to be downloaded. https://yalmip.github.io/download/
+
 This program helps you to create Electrical Vehicle charging variables by using genetic algorithm. These values are initial charge level, desired charge level, departure and arrival time of the EV's. 
 
 There are three types of areas which can be choosen at beginning of the program via interface menu. These are household area, commercial area, industrial area. 
